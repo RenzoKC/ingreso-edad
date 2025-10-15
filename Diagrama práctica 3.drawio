@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="Página-1" id="1NfT8C0DifBsRfiIm09v">
+    <mxGraphModel dx="703" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-ESX2EzpLa8D_iNtIbMb-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-ESX2EzpLa8D_iNtIbMb-1" target="-ESX2EzpLa8D_iNtIbMb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ESX2EzpLa8D_iNtIbMb-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ESX2EzpLa8D_iNtIbMb-16" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-ESX2EzpLa8D_iNtIbMb-2" target="-ESX2EzpLa8D_iNtIbMb-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ESX2EzpLa8D_iNtIbMb-2" value="Mostrar mensaje: &quot;Ingrese su edad: &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="300" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ESX2EzpLa8D_iNtIbMb-18" value="Si" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-ESX2EzpLa8D_iNtIbMb-15" target="-ESX2EzpLa8D_iNtIbMb-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ESX2EzpLa8D_iNtIbMb-20" value="No" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-ESX2EzpLa8D_iNtIbMb-15" target="-ESX2EzpLa8D_iNtIbMb-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ESX2EzpLa8D_iNtIbMb-15" value="¿edad &amp;gt;= 21?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="310" y="270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-ESX2EzpLa8D_iNtIbMb-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-ESX2EzpLa8D_iNtIbMb-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="400" />
+              <mxPoint x="580" y="470" />
+              <mxPoint x="580" y="440" />
+              <mxPoint x="580" y="490" />
+              <mxPoint x="480" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ESX2EzpLa8D_iNtIbMb-17" value="Asignarle a la variable permitido valor verdadero" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="520" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ESX2EzpLa8D_iNtIbMb-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-ESX2EzpLa8D_iNtIbMb-19" target="-ESX2EzpLa8D_iNtIbMb-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ESX2EzpLa8D_iNtIbMb-19" value="Asignarle a la variable permitido valor falso" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="300" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ESX2EzpLa8D_iNtIbMb-29" value="Si" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-ESX2EzpLa8D_iNtIbMb-24" target="-ESX2EzpLa8D_iNtIbMb-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ESX2EzpLa8D_iNtIbMb-31" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-ESX2EzpLa8D_iNtIbMb-24" target="-ESX2EzpLa8D_iNtIbMb-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ESX2EzpLa8D_iNtIbMb-24" value="¿Está permitido el ingreso según la edad?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="275" y="510" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-ESX2EzpLa8D_iNtIbMb-28" value="Mostrar mensaje: &quot;Tienes la edad suficiente para ingresar al bar&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="590" y="540" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-ESX2EzpLa8D_iNtIbMb-33" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-ESX2EzpLa8D_iNtIbMb-30" target="-ESX2EzpLa8D_iNtIbMb-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ESX2EzpLa8D_iNtIbMb-30" value="Mostrar mensaje: &quot;No tienes la edad suficiente para ingresar al bar&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="240" y="670" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ESX2EzpLa8D_iNtIbMb-32" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="790" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
