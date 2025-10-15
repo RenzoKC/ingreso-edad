@@ -19,7 +19,7 @@ Inicio
     Leer el valor ingresado y asignarlo a la variable edad
 
     # Paso 2: Verificar si la edad cumple con el requisito de ingreso del bar 
-    Si edad >= 21 entonces
+    Si edad >= 18 entonces
         asignarle a la variable permitido valor verdadero
     Sino
         asignarle a la variable permitido valor falso
